@@ -3,19 +3,10 @@
 
 # Java, Spring
 
-What should be in composer.json.
+What should be in pom.xml.
 
 ```xml
-<dependency>
-	<groupId>org.springframework.boot</groupId>
-	<artifactId>spring-boot-starter-web</artifactId>
-</dependency>
 
-<dependency>
-	<groupId>org.projectlombok</groupId>
-	<artifactId>lombok</artifactId>
-	<optional>true</optional>
-</dependency>
 ```
 
 # PHP Laravel
